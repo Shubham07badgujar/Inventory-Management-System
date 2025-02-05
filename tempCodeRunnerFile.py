@@ -1,0 +1,2 @@
+btn_upload = Button(product_Frame, text="Upload File",command=self.upload_file,font=("goudy old style", 15), bg="#4caf50", fg="white", cursor="hand2")
+        btn_upload.place(x=10, y=720, width=100, height=40)
